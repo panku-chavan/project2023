@@ -29,7 +29,6 @@ const Homepage = () => {
             </section>
 
             <ImageSlider />
-
         </Layout>
     )
 
