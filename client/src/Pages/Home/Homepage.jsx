@@ -31,6 +31,7 @@ const Homepage = () => {
             <ImageSlider />
         </Layout>
     )
+
 }
 
 export default Homepage
