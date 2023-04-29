@@ -6,13 +6,13 @@ const Footer = () => {
     return (
         <div className="" style={{ minHeight: "" }}>
             <footer className="bg-dark text-center text-white">
-                {/* Grid container */}
+
                 <div className="container">
-                    {/* Section: Social media */}
+
                     <section className="">
-                        {/* Facebook */}
+
                         <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://www.facebook.com/pankajsubhashchavan/"} role="button"><FaFacebookSquare /></Link>
-                        {/* Twitter */}
+
                         <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://twitter.com/panku_chavan"} role="button"><FaTwitterSquare /></Link>
 
                         <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://www.instagram.com/panku_chavan/"} role="button"><FaInstagramSquare /></Link>
