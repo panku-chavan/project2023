@@ -7,7 +7,7 @@ const NavBar = () => {
 
         <nav className="navbar navbar-expand-md  " >
             <div className="container-fluid ">
-                <Link className="navbar-brand" to={"/"} >Crud App</Link>
+                <Link className="navbar-brand" to={"/"} >Project 2023</Link>
                 <div className='d-flex flex-row-reverse'>
                     <div>
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

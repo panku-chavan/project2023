@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { FaFacebookSquare, FaTwitterSquare, FaInstagramSquare, FaLinkedinIn, FaGithubSquare } from "react-icons/fa"
 
 const Footer = () => {
     return (
@@ -10,25 +11,23 @@ const Footer = () => {
                     {/* Section: Social media */}
                     <section className="">
                         {/* Facebook */}
-                        <Link className="btn btn-outline-light btn-floating m-1" href="#!" role="button"></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://www.facebook.com/pankajsubhashchavan/"} role="button"><FaFacebookSquare /></Link>
                         {/* Twitter */}
-                        <Link className="btn btn-outline-light btn-floating m-1" href="#!" role="button"></Link>
-                        {/* Google */}
-                        <Link className="btn btn-outline-light btn-floating m-1" href="#!" role="button"></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://twitter.com/panku_chavan"} role="button"><FaTwitterSquare /></Link>
                         {/* Instagram */}
-                        <Link className="btn btn-outline-light btn-floating m-1" href="#!" role="button"></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://www.instagram.com/panku_chavan/"} role="button"><FaInstagramSquare /></Link>
                         {/* Linkedin */}
-                        <Link className="btn btn-outline-light btn-floating m-1" href="#!" role="button"></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://www.linkedin.com/in/pankaj-chavan-9ba6681ba/"} role="button"><FaLinkedinIn /></Link>
                         {/* Github */}
-                        <Link className="btn btn-outline-light btn-floating m-1" href="#!" role="button"></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://github.com/panku-chavan/"} role="button"><FaGithubSquare /></Link>
                     </section>
                     {/* Section: Social media */}
                 </div>
                 {/* Grid container */}
                 {/* Copyright */}
                 <div className="text-center p-3" style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-                    © 2023 Copyright:
-                    <Link className="text-white">panku-chavan</Link>
+                    © 2023 Copyright :
+                    <span className="text-white" to={""}> panku-chavan</span>
                 </div>
                 {/* Copyright */}
             </footer>
