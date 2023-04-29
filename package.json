@@ -15,6 +15,8 @@
     "express": "^4.18.2",
     "mongoose": "^7.1.0",
     "nodemon": "^2.0.22",
-    "react-icons": "^4.8.0"
+    "react-icons": "^4.8.0",
+    "react-teffex": "^1.0.5",
+    "typewriter-effect": "^2.19.0"
   }
 }
