@@ -21,7 +21,7 @@ const Footer = () => {
                         {/* Github */}
                         <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://github.com/panku-chavan/"} role="button"><FaGithubSquare /></Link>
                     </section>
-                    {/* Section: Social media */}
+
                 </div>
                 {/* Grid container */}
                 {/* Copyright */}
