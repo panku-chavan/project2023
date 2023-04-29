@@ -4,6 +4,7 @@ import Typewriter from 'typewriter-effect';
 const HeadingText = () => {
     return (
         <Typewriter
+
             options={{
                 strings: [
                     "Happiness is an uphill battle. ",
