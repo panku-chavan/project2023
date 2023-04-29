@@ -15,8 +15,12 @@
     "express": "^4.18.2",
     "mongoose": "^7.1.0",
     "nodemon": "^2.0.22",
+    "react-bootstrap": "^2.7.4",
+    "react-bootstrap-carousel": "^4.1.1",
     "react-icons": "^4.8.0",
+    "react-parallax-tilt": "^1.7.131",
     "react-teffex": "^1.0.5",
+    "react-vanilla-tilt": "^1.0.0",
     "typewriter-effect": "^2.19.0"
   }
 }
