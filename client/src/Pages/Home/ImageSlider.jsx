@@ -18,7 +18,6 @@ const ImageSlider = () => {
                     </Tilt>
                 </div>
                 <div className="col-md-4 mb-5">
-
                     <Tilt>
                         <img src={img} className="img-fluid shadow rounded-3" alt="avatar" />
                     </Tilt>
