@@ -1,0 +1,20 @@
+
+.navbar-brand{
+    color: rgb(161, 152, 152) !important;
+}
+
+.navbar-nav .nav-link {
+    box-shadow: inset 0 0 0 0 #54b3d6;
+    color: #54b3d6;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    font-weight: bold;
+  }
+  .nav-link:hover {
+    box-shadow: inset 100px 0 0 0 #54b3d6;
+    color: white;
+  }
+  .navbar-nav li{
+    padding: 20px;
+  }
