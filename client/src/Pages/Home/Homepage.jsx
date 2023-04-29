@@ -21,7 +21,6 @@ const Homepage = () => {
                         <div className="m-5">
                             <Tilt>
                                 <img src={img} className="img-fluid shadow rounded-3" alt="avatar" />
-
                             </Tilt>
                         </div>
                     </div>
