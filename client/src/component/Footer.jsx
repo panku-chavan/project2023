@@ -19,6 +19,7 @@ const Footer = () => {
 
                         <Link className="btn btn-outline-light btn-floating m-2 mt-4 mb-4" to={"https://www.linkedin.com/in/pankaj-chavan-9ba6681ba/"} role="button"><FaLinkedinIn /></Link>
 
+
                         <Link className="btn btn-outline-light btn-floating m-2 mt-4 mb-4" to={"https://github.com/panku-chavan/"} role="button"><FaGithubSquare /></Link>
                     </section>
 
