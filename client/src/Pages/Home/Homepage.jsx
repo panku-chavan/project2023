@@ -27,7 +27,6 @@ const Homepage = () => {
                 </div>
                 <div style={{ marginBottom: "8rem" }}></div>
             </section>
-
             <ImageSlider />
         </Layout>
     )
