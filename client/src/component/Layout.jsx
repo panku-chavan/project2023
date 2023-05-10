@@ -1,8 +1,8 @@
 import React from 'react';
 import NavBar from './NavBar';
-import Footer from './Footer';
 
 import bg from "../Assets/bg.jpg"
+import Footer from './Footer';
 
 const Layout = ({ children }) => {
     return (

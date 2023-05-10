@@ -11,15 +11,15 @@ const Footer = () => {
 
                     <section className="">
 
-                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://www.facebook.com/pankajsubhashchavan/"} role="button"><FaFacebookSquare /></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4 mb-4" to={"https://www.facebook.com/pankajsubhashchavan/"} role="button"><FaFacebookSquare /></Link>
 
-                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://twitter.com/panku_chavan"} role="button"><FaTwitterSquare /></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4 mb-4" to={"https://twitter.com/panku_chavan"} role="button"><FaTwitterSquare /></Link>
 
-                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://www.instagram.com/panku_chavan/"} role="button"><FaInstagramSquare /></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4 mb-4" to={"https://www.instagram.com/panku_chavan/"} role="button"><FaInstagramSquare /></Link>
 
-                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://www.linkedin.com/in/pankaj-chavan-9ba6681ba/"} role="button"><FaLinkedinIn /></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4 mb-4" to={"https://www.linkedin.com/in/pankaj-chavan-9ba6681ba/"} role="button"><FaLinkedinIn /></Link>
 
-                        <Link className="btn btn-outline-light btn-floating m-2 mt-4" to={"https://github.com/panku-chavan/"} role="button"><FaGithubSquare /></Link>
+                        <Link className="btn btn-outline-light btn-floating m-2 mt-4 mb-4" to={"https://github.com/panku-chavan/"} role="button"><FaGithubSquare /></Link>
                     </section>
 
                 </div>

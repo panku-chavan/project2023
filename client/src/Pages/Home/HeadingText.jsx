@@ -6,11 +6,8 @@ const HeadingText = () => {
         <Typewriter
             options={{
                 strings: [
-                    "Happiness is an uphill battle. ",
-                    "When things go wrong, don't go with them.",
-                    "Happiness is a warm puppy.",
-                    "Happiness never decreases by being shared.",
-                    "Happiness is like jam."
+                    "Hello Pankaj....",
+                    "Hello Krishna....."
                 ],
                 autoStart: true,
                 loop: true,
