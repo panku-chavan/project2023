@@ -7,10 +7,7 @@ import img1 from "../../Assets/s2.jpeg";
 const ImageSlider = () => {
     return (
 
-
         <div className="container">
-
-
             <div className="row">
                 <div className="col-md-4 mb-5">
                     <Tilt>
