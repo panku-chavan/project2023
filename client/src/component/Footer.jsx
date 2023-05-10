@@ -21,8 +21,6 @@ const Footer = () => {
 
                         <Link className="btn btn-outline-light btn-floating m-2 mt-4 mb-4" to={"https://github.com/panku-chavan/"} role="button"><FaGithubSquare /></Link>
                     </section>
-
-
                 </div>
                 <div className="text-center p-3" style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
                     © 2023 Copyright :
