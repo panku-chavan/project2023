@@ -23,6 +23,7 @@ const Homepage = () => {
                                 <img src={img} className="img-fluid shadow rounded-3" alt="avatar" />
                             </Tilt>
                         </div>
+
                     </div>
                 </div>
                 <div style={{ marginBottom: "8rem" }}></div>
